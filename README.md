@@ -1,7 +1,8 @@
 # tml-debug-quickstart
 Skip the splash screen and character / world select menus when debugging your Terraria mods
+Full credit goes to Lolxd87 for creating and maintaining this tool
 
-## READ FIRST
+# **READ FIRST**
 These files are used to make debugging Terraria mods with Visual Studio faster. This only works if you rebuild your mod from Visual Studio rather than ingame. Please don't build ingame 😘
 <hr>
 
